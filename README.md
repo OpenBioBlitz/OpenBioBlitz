@@ -1,5 +1,12 @@
 _OpenBioBlitz est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne)_
 
+* Licence repo GitHub page 
+Creative Commons Attribution 3.0 Unported
+http://creativecommons.org/licenses/by/3.0/
+
+* Ressources de documentations: CC-BY licence [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) OpenBiolBlitz et contributeurs hackpad
+
+
 ### Quoi:
 
 une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un BioBlitz avec
@@ -49,3 +56,4 @@ Préparer les formulaires
 Project access (ACL)
 Visualisation des données de base => pas un objectif principal
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OpenBioBlitz</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/OpenBioBlitz" property="cc:attributionName" rel="cc:attributionURL">OpenBiolBlitz et contributeurs hackpad</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licence Creative Commons Attribution 4.0 International</a>.<br />Fondé(e) sur une œuvre à <a xmlns:dct="http://purl.org/dc/terms/" href="https://hackpad.com/OpenBioBlitz-jVIIVR11rac" rel="dct:source">https://hackpad.com/OpenBioBlitz-jVIIVR11rac</a>.
