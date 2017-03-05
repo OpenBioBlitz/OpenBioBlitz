@@ -7,3 +7,8 @@ Définition BioBlitz: étude sur une portion bien précise de terrain, où un gr
 [Darwin Core](http://rs.tdwg.org/dwc/): standard international de description des champs biologiques
 
 liens utiles: [HackPad OpenBioBlitz](https://hackpad.com/OpenBioBlitz-jVIIVR11rac)  et [l'arborescence des interfaces utilisateur/DarwinCore](https://framindmap.org/c/maps/320935/) (produits lors la Nuit du Code Citoyen à Rennes, le 3-4-5 mars).
+
+idées en vrac: 
+- 1) définir la zone géographique et la durée de l'action: paramétrage de l'API géographique via Open Street Map
+- 2) définir le niveau de compétence des utilisateurs: configuration des information DarwinCore à rentrer
+- 3) identifier la typologie et méthodologie du BioBlitz (BioBlitz sur oiseaux / toute forme de vie / zone géographique...)
