@@ -9,7 +9,7 @@ http://creativecommons.org/licenses/by/3.0/
 
 ### Quoi:
 
-une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un BioBlitz avec
+Une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un BioBlitz avec
 - Traduction automatique en [Darwin Core](http://rs.tdwg.org/dwc/) 
 - Intégration des informations manquantes via des sites OpenSource (OpenTree of Life, Open Street Map, Catalogue of Life, etc.)
 - Exportation vers une Base de Données
