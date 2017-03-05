@@ -11,6 +11,8 @@ une application online/offline pour acquérir de nouvelles données d'observatio
 - Configuration/Paramétrage des espèces déjà présentes sur les lieux via [GBIF](www.gbif.org) et/ou l'[INPN](https://inpn.mnhn.fr/accueil/index) pour une restriction et optimisation des ajouts d’informations présentes et manquantes
 - 3 niveaux de récupération d'information: débutant / intermédiaire / confirmé
 
+NB: Il s'agit d'un outil de récupération de données et non de visualisation cartographique
+
 ### Comment:
 
 Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) échangent avec une API reliée à une Base de Données en ligne.
