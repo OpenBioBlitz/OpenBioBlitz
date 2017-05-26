@@ -1,4 +1,4 @@
-_[OpenBioBlitz](https://hackpad.com/OpenBioBlitz-jVIIVR11rac) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne)_
+_[OpenBioBlitz](https://hackmd.io/s/HyirLArZb#) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne)_
 
 * Licence repo GitHub page 
 Creative Commons Attribution 3.0 Unported
