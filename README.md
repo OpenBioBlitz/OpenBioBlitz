@@ -1,4 +1,4 @@
-[OpenBioBlitz] (http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget#Open_BioBlitz) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne)_
+[OpenBioBlitz](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget#Open_BioBlitz) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne)_
 
 ### Quoi:
 
