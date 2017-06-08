@@ -1,15 +1,8 @@
-_[OpenBioBlitz](https://hackmd.io/s/HyirLArZb#) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne)_
-
-* Licence repo GitHub page 
-Creative Commons Attribution 3.0 Unported
-http://creativecommons.org/licenses/by/3.0/
-
-* Ressources de documentations: CC-BY licence [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) OpenBiolBlitz et contributeurs hackpad
-
+_OpenBioBlitz est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne)_
 
 ### Quoi:
 
-Une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un BioBlitz avec
+une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un BioBlitz avec
 - Traduction automatique en [Darwin Core](http://rs.tdwg.org/dwc/) 
 - Intégration des informations manquantes via des sites OpenSource (OpenTree of Life, Open Street Map, Catalogue of Life, etc.)
 - Exportation vers une Base de Données
@@ -18,14 +11,14 @@ Une application online/offline pour acquérir de nouvelles données d'observatio
 - Configuration/Paramétrage des espèces déjà présentes sur les lieux via [GBIF](www.gbif.org) et/ou l'[INPN](https://inpn.mnhn.fr/accueil/index) pour une restriction et optimisation des ajouts d’informations présentes et manquantes
 - 3 niveaux de récupération d'information: débutant / intermédiaire / confirmé
 
-NB: Il s'agit d'un outil de récupération de données et non de visualisation cartographique
-
 ### Comment:
 
 Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) échangent avec une API reliée à une Base de Données en ligne.
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
 
 ### Solutions techniques possibles :
+
+[Documentation de la mini NCC dédiée à OpenBioblitz](https://mensuel.framapad.org/p/miniNCC) le 26 mai 2017 à Rennnes
 
 **Formulaires**
 
@@ -56,4 +49,3 @@ Préparer les formulaires
 Project access (ACL)
 Visualisation des données de base => pas un objectif principal
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OpenBioBlitz</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/OpenBioBlitz" property="cc:attributionName" rel="cc:attributionURL">OpenBiolBlitz et contributeurs hackpad</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licence Creative Commons Attribution 4.0 International</a>.<br />Fondé(e) sur une œuvre à <a xmlns:dct="http://purl.org/dc/terms/" href="https://hackmd.io/s/HyirLArZb#" rel="dct:source">https://hackmd.io/s/HyirLArZb#</a>.
