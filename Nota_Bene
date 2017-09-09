@@ -12,3 +12,15 @@ idées en vrac:
 - 1) définir la zone géographique et la durée de l'action: paramétrage de l'API géographique via Open Street Map
 - 2) définir le niveau de compétence des utilisateurs: configuration des information DarwinCore à rentrer
 - 3) identifier la typologie et méthodologie du BioBlitz (BioBlitz sur oiseaux / toute forme de vie / zone géographique...)
+
+**Formulaires**
+
+Différents niveaux utilisateurs (débutant, intermédiaire, confirmé)
+Se souvenir que l'information peut-être complétée automatiquement ultérieurement (taxonomie, géographie...)
+Différentes sortes de catégories (box, textbox, cocombobox, listbox, list, button...)
+Différents types d'insertions de données (images, geo-ref, text, etc.)
+Créer une liste de champs prédéfinie via la configuration géographique et taxonomique
+
+**Application portable**
+
+Concevoir un formulaire offline nécessaire pour configurer les interfaces utilisateurs. => nécéssite aussi une réplication de la base de données, sous forme d'un format approprié (json) qui sera utilisé par l'API ultérieurement lors du chargement dans la base de données. Téléversement des données lorsqu'il y aura connection au réseau (et ou à la fin du BioBlitz).
