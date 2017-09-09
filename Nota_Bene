@@ -24,3 +24,16 @@ Créer une liste de champs prédéfinie via la configuration géographique et ta
 **Application portable**
 
 Concevoir un formulaire offline nécessaire pour configurer les interfaces utilisateurs. => nécéssite aussi une réplication de la base de données, sous forme d'un format approprié (json) qui sera utilisé par l'API ultérieurement lors du chargement dans la base de données. Téléversement des données lorsqu'il y aura connection au réseau (et ou à la fin du BioBlitz).
+
+### Base de données
+
+Portable
+SQL ou non
+Simple
+Uniforme et partageable sous forme d'archive DarwinCore et d'exportation de données.
+
+### Applis web
+
+Préparer les formulaires
+Project access (ACL)
+Visualisation des données de base => pas un objectif principal
