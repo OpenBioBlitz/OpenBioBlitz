@@ -19,7 +19,7 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 ### Applications existantes
 
-| Application        | Open source           | Structure | Contact | Contacté ? | Commentaire |
+| Application        | Open source           | Structure | Contact | Contacté | Commentaire |
 | ------------------ |-----------------------| ----------|---------|------------|-------------|
 | [i-Naturalist](https://www.inaturalist.org/) |   |     |         |            |             |
 | [Map Of Life](https://mol.org/)              |   |     |         |            |             |
