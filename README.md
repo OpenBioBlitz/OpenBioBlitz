@@ -44,7 +44,9 @@ Les champs du formulaire sont décris dans cette [mind map](https://framindmap.o
 
 **TODO** : Vulgariser le [DarwinCore](http://www.canadensys.net/publication/darwin-core?lang=fr) selon le type de profil, voir [exemple mind map débutant](https://framindmap.org/c/maps/321124/edit)
 
-### 
+### Base de donnée
+
+
 
 ## Contribuer
 
@@ -61,25 +63,22 @@ Les choix technologiques ne sont pas arrêtés, chaque proposition est bienvenue
  - [API OpenBioBliz](https://github.com/gaetan-pc/openbioblitz-core)
  - [Documentation](https://github.com/gaetan-pc/openbioblitz-core-documentation)
 
-#### Choix technologiques
-
+**Choix technologiques** :
  - Langage : Ruby
  - Base de données : PostgreSQL avec extensions (PostGIS, OpenFTS) et éventuellement autres outils (Elasticsearch / Alglia / HStore / Redis ?) à définir.
 
-#### Todo
-
-Décrire les points d'entrées / routes.
+**Todo** :
+ - Décrire les points d'entrées / routes.
 
 ### Clients
 
  - [Client mobile](https://github.com/gaetan-pc/openbioblitz-mobile)
  - [Client général](https://github.com/gaetan-pc/openbioblitz-web)
 
-#### Choix technologiques
+**Choix technologiques** :
+ - React + Redux
 
-React + Redux
-
-#### Todo
+**Todo** :
 
  - A t-on réellement besoin de plusieurs clients ?
 
