@@ -19,6 +19,15 @@ OpenBioblitz est une application online/offline pour acquérir de nouvelles donn
 Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) échangent avec une API reliée à une Base de Données en ligne.
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
 
+### Applications existantes
+
+ - [i-Naturalist](https://www.inaturalist.org/)
+ - [Map Of Life](https://mol.org/)
+ - [i-Spot](https://www.ispotnature.org/)
+ - [Ecobalade](http://www.ecobalade.fr/)
+ - [I-Record](https://www.brc.ac.uk/irecord/) => Basé sur drupal (7?) demande beaucoup de maintenance
+ - [BioCollect](https://www.ala.org.au/biocollect/)
+
 ## Description fonctionelle
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
@@ -33,7 +42,7 @@ L'utilisateur rempli un formulaire qui répond au questions Qui / Quoi / Ou / Co
 
 Les champs du formulaire sont décris dans cette [mind map](https://framindmap.org/c/maps/320935/edit).
 
-**TODO** : Vulgariser le [DarwinCore](http://rs.tdwg.org/dwc/) selon le type de profil, voir [exemple mind map débutant](https://framindmap.org/c/maps/321124/edit)
+**TODO** : Vulgariser le [DarwinCore](http://www.canadensys.net/publication/darwin-core?lang=fr) selon le type de profil, voir [exemple mind map débutant](https://framindmap.org/c/maps/321124/edit)
 
 ### 
 
