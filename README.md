@@ -63,11 +63,11 @@ Les choix technologiques ne sont pas arrêtés, chaque proposition est bienvenue
  - [API OpenBioBliz](https://github.com/gaetan-pc/openbioblitz-core)
  - [Documentation](https://github.com/gaetan-pc/openbioblitz-core-documentation)
 
-**Choix technologiques** :
+Choix technologiques :
  - Langage : Ruby
  - Base de données : PostgreSQL avec extensions (PostGIS, OpenFTS) et éventuellement autres outils (Elasticsearch / Alglia / HStore / Redis ?) à définir.
 
-**Todo** :
+Todo :
  - Décrire les points d'entrées / routes.
 
 ### Clients
@@ -75,10 +75,10 @@ Les choix technologiques ne sont pas arrêtés, chaque proposition est bienvenue
  - [Client mobile](https://github.com/gaetan-pc/openbioblitz-mobile)
  - [Client général](https://github.com/gaetan-pc/openbioblitz-web)
 
-**Choix technologiques** :
+Choix technologiques :
  - React + Redux
 
-**Todo** :
+Todo :
 
  - A t-on réellement besoin de plusieurs clients ?
 
