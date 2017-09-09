@@ -4,8 +4,6 @@
 
 OpenBioblitz est une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un événement naturaliste comme un [BioBlitz](https://en.wikipedia.org/wiki/BioBlitz).
 
-![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
-
 ## Concept
 
 - Traduction automatique en [Darwin Core](http://rs.tdwg.org/dwc/) 
@@ -35,6 +33,8 @@ TODO: finir de remplir le tableau.
 ## Description fonctionelle
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
+
+TODO : image dynamique
 
 ### Profil utilisateur
 
