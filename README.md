@@ -22,14 +22,13 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 ### Applications existantes
 
 | Application        | Open source           | Structure | Contact | Contacté ? | Commentaire |
-| ------------- |-------------| -----|-----|-----|-----|-----|
-| [i-Naturalist](https://www.inaturalist.org/) |   |   |   |   |   |
-| [Map Of Life](https://mol.org/) |   |   |   |   |   |
-| [i-Spot](https://www.ispotnature.org/) |   |   |   |   |   |
-| [Ecobalade](http://www.ecobalade.fr/) |   |   |   |   |   |
-| [I-Record](https://www.brc.ac.uk/irecord/) |   |   |   |   |   |
-| [BioCollect](https://www.ala.org.au/biocollect/) |   |   |   |   |   |
-
+| ------------------ |-----------------------| ----------|---------|------------|-------------|
+| [i-Naturalist](https://www.inaturalist.org/) |   |     |         |            |             |
+| [Map Of Life](https://mol.org/)              |   |     |         |            |             |
+| [i-Spot](https://www.ispotnature.org/)       |   |     |         |            |             |
+| [Ecobalade](http://www.ecobalade.fr/)        |   |     |         |            |             |
+| [I-Record](https://www.brc.ac.uk/irecord/)   |   |     |         |            | Basé sur drupal (7?) demande beaucoup de maintenance |
+| [BioCollect](https://www.ala.org.au/biocollect/)|  |   |         |            |             |
 ## Description fonctionelle
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
