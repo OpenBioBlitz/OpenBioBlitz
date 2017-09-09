@@ -36,8 +36,8 @@ Les choix technologiques ne sont pas arrêtés, toutes propositions est bienvenu
 
 #### Choix technologiques
 
-Langage : Ruby
-Base de données : PostgreSQL avec extensions (PostGIS, OpenFTS) et éventuellement autres outils (Elasticsearch / Alglia / HStore / Redis ?) à définir
+ - Langage : Ruby
+ - Base de données : PostgreSQL avec extensions (PostGIS, OpenFTS) et éventuellement autres outils (Elasticsearch / Alglia / HStore / Redis ?) à définir.
 
 #### Todo
 
