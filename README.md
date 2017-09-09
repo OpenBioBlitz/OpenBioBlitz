@@ -61,7 +61,11 @@ Validation avec [DarwinCore Validator](https://tools.gbif.org/dwca-validator/).
 
 ### Publication
 
-[GBIF.org](GBIF.org)
+[GBIF.org > publisher](https://www.gbif.org/become-a-publisher)
+
+### Configuration de la zone géographique
+
+[GBIF.org > occurrence > location](https://www.gbif.org/occurrence/search) (aller voir sur _location_)
 
 ## Contribuer
 
