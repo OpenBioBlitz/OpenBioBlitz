@@ -27,8 +27,16 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 L'utilisateur choisi son profil : débutant, intermédiare ou confirmé.
 
-![Description interface débutant](https://github.com/OpenBioBlitz/OpenBioBlitz/raw/master/OpenBioBlitz%20-%20De%CC%81butant.pdf)
- 
+### Formulaire
+
+L'utilisateur rempli un formulaire qui répond au questions Qui / Quoi / Ou / Comment.
+
+Les champs du formulaire sont décris dans cette [mind map](https://framindmap.org/c/maps/320935/edit).
+
+**TODO** : Vulgariser le [DarwinCore](http://rs.tdwg.org/dwc/) selon le type de profil, voir [exemple mind map débutant](https://framindmap.org/c/maps/321124/edit)
+
+### 
+
 ## Contribuer
 
  - [Slack](openbioblitz.slack.com)
