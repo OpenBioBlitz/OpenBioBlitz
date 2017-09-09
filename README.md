@@ -19,26 +19,45 @@ OpenBioblitz est une application online/offline pour acquérir de nouvelles donn
 Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) échangent avec une API reliée à une Base de Données en ligne.
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
 
+## Contribuer
+
+ - [Slack](openbioblitz.slack.com)
+ - [Carnet de bord](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#)
+ - résidence à l'Hotel Pasteur à Rennes du 4 septembre au 15 décembre de 9h30 à 19h30 (selon les disponibilitées de chacuns)
+
+## Architecture
+
+Les choix technologiques ne sont pas arrêtés, toutes propositions est bienvenue.
+
+### API Web
+
+ - [API OpenBioBliz](https://github.com/gaetan-pc/openbioblitz-core)
+ - [Documentation](https://github.com/gaetan-pc/openbioblitz-core-documentation)
+
+#### Choix technologiques
+
+Langage : Ruby
+Base de données : PostgreSQL avec extensions (PostGIS, OpenFTS) et éventuellement autres outils (Elasticsearch / Alglia / HStore / Redis ?) à définir
+
+#### Todo
+
+Décrire les points d'entrées / routes.
+
+### Clients
+
+ - [Client mobile](https://github.com/gaetan-pc/openbioblitz-mobile)
+ - [Client général](https://github.com/gaetan-pc/openbioblitz-web)
+
+#### Choix technologiques
+
+React + Redux
+
+#### Todo
+
+ - A t-on réellement besoin de plusieurs clients ?
+
 ## Contexte
 
 [OpenBioBlitz](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget#Open_BioBlitz) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne).
 
 [Documentation de la mini NCC dédiée à OpenBioblitz](https://mensuel.framapad.org/p/miniNCC) le 26 mai 2017 à Rennnes
-
-## Architecture
-
-Interface de programmation entre la base de données et les applications online/offline (formulaire web et applications portables).
-
-### Base de données
-
-Portable
-SQL ou non
-Simple
-Uniforme et partageable sous forme d'archive DarwinCore et d'exportation de données.
-
-### Applis web
-
-Préparer les formulaires
-Project access (ACL)
-Visualisation des données de base => pas un objectif principal
-
