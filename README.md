@@ -27,7 +27,7 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 L'utilisateur choisi son profil : débutant, intermédiare ou confirmé.
 
-[Description interface débutant](https://github.com/OpenBioBlitz/OpenBioBlitz/raw/master/OpenBioBlitz%20-%20De%CC%81butant.pdf)
+![Description interface débutant](https://github.com/OpenBioBlitz/OpenBioBlitz/raw/master/OpenBioBlitz%20-%20De%CC%81butant.pdf)
  
 ## Contribuer
 
