@@ -6,7 +6,7 @@ OpenBioblitz est une application online/offline pour acquérir de nouvelles donn
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
 
-## Comment
+## Concept
 
 - Traduction automatique en [Darwin Core](http://rs.tdwg.org/dwc/) 
 - Intégration des informations manquantes via des sites OpenSource (OpenTree of Life, Open Street Map, Catalogue of Life, etc.)
@@ -19,6 +19,16 @@ OpenBioblitz est une application online/offline pour acquérir de nouvelles donn
 Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) échangent avec une API reliée à une Base de Données en ligne.
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
 
+## Description fonctionelle
+
+![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
+
+### Profil utilisateur
+
+L'utilisateur choisi son profil : débutant, intermédiare ou confirmé.
+
+[Description interface débutant](https://github.com/OpenBioBlitz/OpenBioBlitz/raw/master/OpenBioBlitz%20-%20De%CC%81butant.pdf)
+ 
 ## Contribuer
 
  - [Slack](openbioblitz.slack.com)
@@ -27,7 +37,7 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 ## Architecture
 
-Les choix technologiques ne sont pas arrêtés, toutes propositions est bienvenue.
+Les choix technologiques ne sont pas arrêtés, chaque proposition est bienvenue.
 
 ### API Web
 
