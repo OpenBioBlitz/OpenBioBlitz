@@ -29,6 +29,9 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 | [Ecobalade](http://www.ecobalade.fr/)        |   |     |         |            |             |
 | [I-Record](https://www.brc.ac.uk/irecord/)   |   |     |         |            | Basé sur drupal (7?) demande beaucoup de maintenance |
 | [BioCollect](https://www.ala.org.au/biocollect/)|  |   |         |            |             |
+
+TODO: finir de remplir le tableau.
+
 ## Description fonctionelle
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
@@ -45,7 +48,20 @@ Les champs du formulaire sont décris dans cette [mind map](https://framindmap.o
 
 **TODO** : Vulgariser le [DarwinCore](http://www.canadensys.net/publication/darwin-core?lang=fr) selon le type de profil, voir [exemple mind map débutant](https://framindmap.org/c/maps/321124/edit)
 
-### Base de donnée
+### Récupération des données manquantes
+
+Connexion avec les API existantes :
+ - Geographique : OpenStreetMap
+ - Taxonomique : Catalogue of Life
+ - Phylogénétique : Open Tree of Life
+
+### Validation DarwinCore
+
+Validation avec [DarwinCore Validator](https://tools.gbif.org/dwca-validator/).
+
+### Publication
+
+[GBIF.org](GBIF.org)
 
 ## Contribuer
 
