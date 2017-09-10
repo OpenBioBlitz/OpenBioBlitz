@@ -36,6 +36,9 @@ TODO: finir de remplir le tableau.
 
 TODO : image dynamique
 
+<iframe style="width:600px;height:400px;border: 1px
+solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
+
 ### Profil utilisateur
 
 L'utilisateur choisi son profil : débutant, intermédiare ou confirmé.
