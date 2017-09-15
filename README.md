@@ -52,7 +52,7 @@ Les champs du formulaire sont décris dans cette [mind map](https://framindmap.o
 ### Récupération des données manquantes
 
 Connexion avec les API existantes :
- - Geographique : OpenStreetMap
+ - Geographique : OpenStreetMap / GBIF
  - Taxonomique : Catalogue of Life
  - Phylogénétique : Open Tree of Life
 
@@ -72,7 +72,7 @@ Validation avec [DarwinCore Validator](https://tools.gbif.org/dwca-validator/).
 
  - [Slack](openbioblitz.slack.com)
  - [Carnet de bord](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#)
- - résidence à l'Hotel Pasteur à Rennes du 4 septembre au 15 décembre de 9h30 à 19h30 (selon les disponibilitées de chacuns)
+ - [Résidence à l'Hotel Pasteur] (https://hackmd.io/s/BJ-CtQywW#)à Rennes du 4 septembre au 15 décembre de 9h30 à 19h30 (selon les disponibilitées de chacuns)
 
 ## Architecture
 
@@ -107,3 +107,5 @@ Todo :
 [OpenBioBlitz](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget#Open_BioBlitz) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne).
 
 [Documentation de la mini NCC dédiée à OpenBioblitz](https://mensuel.framapad.org/p/miniNCC) le 26 mai 2017 à Rennnes
+
+[Présentation sur les données de biodiversité](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
