@@ -72,7 +72,7 @@ Validation avec [DarwinCore Validator](https://tools.gbif.org/dwca-validator/).
 
  - [Slack](openbioblitz.slack.com)
  - [Carnet de bord](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#)
- - [Résidence à l'Hotel Pasteur] (https://hackmd.io/s/BJ-CtQywW#) à Rennes du 4 septembre au 15 décembre de 9h30 à 19h30 (selon les disponibilitées de chacuns)
+ - [Résidence à l'Hotel Pasteur](https://hackmd.io/s/BJ-CtQywW#) à Rennes du 4 septembre au 15 décembre de 9h30 à 19h30 (selon les disponibilitées de chacuns)
 
 ## Architecture
 
