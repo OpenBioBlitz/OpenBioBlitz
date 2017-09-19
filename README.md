@@ -40,10 +40,11 @@ solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
 ### Profil utilisateur
 
 L'utilisateur choisi son profil : débutant, intermédiare ou confirmé.
+Les 3 niveaux doivent être très simples pour ne pas perdre l'utilisateur.
 
 ### Formulaire
 
-L'utilisateur rempli un formulaire qui répond au questions Qui / Quoi / Ou / Comment.
+L'utilisateur rempli un formulaire qui répond au questions Qui / Quoi / Où / Quand / Comment.
 
 Les champs du formulaire sont décris dans cette [mind map](https://framindmap.org/c/maps/320935/edit).
 
@@ -55,6 +56,7 @@ Connexion avec les API existantes :
  - Geographique : OpenStreetMap / GBIF
  - Taxonomique : Catalogue of Life
  - Phylogénétique : Open Tree of Life
+ - Images : Encyclopedia Of Life / WikiSpecies
 
 ### Validation DarwinCore
 
