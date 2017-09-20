@@ -26,7 +26,8 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 | [i-Spot](https://www.ispotnature.org/)       |   |     |         |            |             |
 | [Ecobalade](http://www.ecobalade.fr/)        |   |     |         |            |             |
 | [I-Record](https://www.brc.ac.uk/irecord/)   |   |     |         |            | Basé sur drupal (7?) demande beaucoup de maintenance |
-| [BioCollect](https://www.ala.org.au/biocollect/)|  |   |         |            |             |
+| [BioCollect](https://www.ala.org.au/biocollect/)
+| [Biodiv go](https://biodivgo.com/fr/)  |   |         |            |             |
 
 TODO: finir de remplir le tableau.
 
