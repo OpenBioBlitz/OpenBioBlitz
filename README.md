@@ -22,7 +22,7 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 [Source : Carnet de terrain électronique](http://carnet-terrain-electronique.fr/applications/)
 
 <iframe style="width:1200px;height:800px;border:0px"
-src="http://carnet-terrain-electronique.fr/wiki/doku.php?id=apps:naturaliste/embed?zoom=1"> </iframe>
+solid black"src="http://carnet-terrain-electronique.fr/wiki/doku.php?id=apps:naturaliste/"> </iframe>
 
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
 | ------------------ |-----------------------| ----------|---------|------------|-------------|
@@ -114,10 +114,10 @@ Todo :
 
 ## Contexte
 
-[OpenBioBlitz](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#) est un projet initié et développé lors de la première édition du [hackathon](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget) [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne).
+[OpenBioBlitz](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#) est un projet initié et développé lors d'un [hackathon](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget) organisé en 32 jours les 4-5 mars 2017 à Rennes (Bretagne) dans le cadre de l'événement national [la Nuit du Code Citoyen](https://codecitoyen.github.io/) .
 
 [Présentation sur les données de biodiversité](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
 
 ### Licences du projet
 
-OpenBioBlitz est un projet sous licence libre [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
+OpenBioBlitz est un projet sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
