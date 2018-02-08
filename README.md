@@ -23,6 +23,8 @@ Source : http://carnet-terrain-electronique.fr/
 !<iframe style="width:1200px;height:800px;border: 0px
 solid black" src="http://carnet-terrain-electronique.fr/applications/"> </iframe>
 
+
+
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
 | ------------------ |-----------------------| ----------|---------|------------|-------------|
 | [i-Naturalist](https://www.inaturalist.org/) |   |     |         |            |             |
@@ -39,7 +41,7 @@ TODO: finir de remplir le tableau.
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
 
-<iframe style="width:1200px;height:800px;border: 0px
+<iframe style="width:1200px;height:800px;border: 2px
 solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
 
 ### Profil utilisateur
