@@ -120,3 +120,7 @@ Todo :
 [Documentation de la mini NCC dédiée à OpenBioblitz](https://mensuel.framapad.org/p/miniNCC) le 26 mai 2017 à Rennnes
 
 [Présentation sur les données de biodiversité](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
+
+### Licences du projet
+
+OpenBioBlitz est un projet sous licence libre [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
