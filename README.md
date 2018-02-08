@@ -53,6 +53,8 @@ Les 3 niveaux doivent être très simples pour ne pas perdre l'utilisateur.
 
 L'utilisateur rempli un formulaire qui répond au questions Qui / Quoi / Où / Quand / Comment.
 
+![Exemple d'interface du formaulaire](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488717935354_undefined)
+
 Les champs du formulaire sont décris dans cette [mind map](https://framindmap.org/c/maps/320935/edit).
 
 **TODO** : Vulgariser le [DarwinCore](http://www.canadensys.net/publication/darwin-core?lang=fr) selon le type de profil, voir [exemple mind map débutant](https://framindmap.org/c/maps/321124/edit)
@@ -115,7 +117,7 @@ Todo :
 
 ## Contexte
 
-[OpenBioBlitz](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#) est un projet initié et développé lors d'un [hackathon](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget) organisé en 32 jours les 4-5 mars 2017 à Rennes (Bretagne) dans le cadre de l'événement national [la Nuit du Code Citoyen](https://codecitoyen.github.io/) .
+[OpenBioBlitz](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#) est un projet initié et développé lors d'un [hackathon organisé en 32 jours](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget) les 4-5 mars 2017 à Rennes (Bretagne, France) dans le cadre de l'événement national [la Nuit du Code Citoyen](https://codecitoyen.github.io/) .
 
 [Présentation sur les données de biodiversité](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
 
