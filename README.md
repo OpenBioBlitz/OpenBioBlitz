@@ -18,8 +18,9 @@ Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) éc
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
 
 ### Applications existantes
-![Source : Carnet de terrain électronique] (<iframe style="width:1200px;height:800px;border: 0px
-solid black" src="http://carnet-terrain-electronique.fr/applications/"> </iframe>)
+![Source : Carnet de terrain électronique] 
+<iframe style="width:1200px;height:800px;border: 0px
+solid black" src="http://carnet-terrain-electronique.fr/applications/embed?zoom=1"> </iframe>
 
 <iframe style="width:1200px;height:800px;border: 0px
 solid black" src=""> </iframe>
