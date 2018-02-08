@@ -18,9 +18,9 @@ Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) éc
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
 
 ### Applications existantes
-Source : http://carnet-terrain-electronique.fr/ 
+![Source](http://carnet-terrain-electronique.fr/)  
 
-!<iframe style="width:1200px;height:800px;border: 0px
+<iframe style="width:1200px;height:800px;border: 0px
 solid black" src="http://carnet-terrain-electronique.fr/applications/"> </iframe>
 
 
@@ -41,7 +41,7 @@ TODO: finir de remplir le tableau.
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
 
-<iframe style="width:1200px;height:800px;border: 2px
+<iframe style="width:1200px;height:800px;border: 0px
 solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
 
 ### Profil utilisateur
