@@ -26,6 +26,7 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
 </figure>
 
+
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
 | ------------------ |-----------------------| ----------|---------|------------|-------------|
 | [i-Naturalist](https://www.inaturalist.org/) |   |     |         |            |             |
@@ -120,6 +121,6 @@ Todo :
 
 [Présentation sur les données de biodiversité](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
 
-### Licences du projet
+### Licence du projet
 
 OpenBioBlitz est un projet sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
