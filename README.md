@@ -19,10 +19,13 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 ### Applications existantes
 
+<iframe style="width:1200px;height:800px;border:0px
+solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
+
 [Source : Carnet de terrain électronique](http://carnet-terrain-electronique.fr/applications/)
 
 <iframe style="width:1200px;height:800px;border:0px"
-solid black"src="http://carnet-terrain-electronique.fr/wiki/doku.php?id=apps:naturaliste/"> </iframe>
+solid black"src="carnet-terrain-electronique.fr/applications/"> </iframe>
 
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
 | ------------------ |-----------------------| ----------|---------|------------|-------------|
