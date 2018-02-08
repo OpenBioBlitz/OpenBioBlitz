@@ -19,10 +19,10 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 ### Applications existantes
 
-[Source : Carnet de terrain électronique](http://carnet-terrain-electronique.fr/applications/)
+[Source : tiré Carnet de terrain électronique et modifié](http://carnet-terrain-electronique.fr/applications/)
 
 <figure class="video_container">
-<iframe src="http://carnet-terrain-electronique.fr/applications/"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
 </figure>
 
 
