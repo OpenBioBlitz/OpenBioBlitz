@@ -19,10 +19,10 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 ### Applications existantes
 
-![Source : Carnet de terrain électronique](https://carnet-terrain-electronique.fr/applications/)
+[Source : Carnet de terrain électronique](https://carnet-terrain-electronique.fr/applications/)
 
-<iframe style="width:1200px;height:800px;border:0px
-solid black" src="https://carnet-terrain-electronique.fr/applications/"> </iframe>
+!<iframe style="width:1200px;height:800px;border:0px
+solid black" src="https://carnet-terrain-electronique.fr/applications/embed?zoom=2"> </iframe>
 
 
 ###
@@ -43,7 +43,7 @@ TODO: finir de remplir le tableau.
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
 
-<iframe style="width:600px;height:400px;border:0px
+<iframe style="width:1200px;height:800px;border:0px
 solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
 
 ### Profil utilisateur
