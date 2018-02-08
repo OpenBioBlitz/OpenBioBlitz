@@ -18,7 +18,9 @@ Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) éc
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
 
 ### Applications existantes
-Source : http://carnet-terrain-electronique.fr/ <iframe style="width:1200px;height:800px;border: 0px
+Source : http://carnet-terrain-electronique.fr/ 
+
+!<iframe style="width:1200px;height:800px;border: 0px
 solid black" src="http://carnet-terrain-electronique.fr/applications/"> </iframe>
 
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
@@ -77,8 +79,10 @@ Validation avec [DarwinCore Validator](https://tools.gbif.org/dwca-validator/).
 
  - [Slack](openbioblitz.slack.com)
  - [Carnet de bord](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#)
- - [Résidence à l'Hotel Pasteur](https://hackmd.io/s/BJ-CtQywW#) à Rennes du 4 septembre au 15 décembre de 9h30 à 19h30 (selon les disponibilitées de chacuns)
-
+ 
+ Todo:
+ - contacter des institutions (associations naturalistes, Muséums (UMS PatriNat), ou autres projets d'applications naturalistes
+ 
 ## Architecture
 
 Les choix technologiques ne sont pas arrêtés, chaque proposition est bienvenue.
