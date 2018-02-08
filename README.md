@@ -22,7 +22,7 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 [Source : Carnet de terrain électronique](http://carnet-terrain-electronique.fr/applications/)
 
 <iframe style="width:1200px;height:800px;border:0px
-solid black" src="http://carnet-terrain-electronique.fr/applications/"> </iframe>
+solid black" src="http://carnet-terrain-electronique.fr/applications/embed?=zoom=3"> </iframe>
 
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
 | ------------------ |-----------------------| ----------|---------|------------|-------------|
@@ -114,9 +114,7 @@ Todo :
 
 ## Contexte
 
-[OpenBioBlitz](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget#Open_BioBlitz) est un projet initié et développé lors de la première édition de [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne).
-
-[Documentation de la mini NCC dédiée à OpenBioblitz](https://mensuel.framapad.org/p/miniNCC) le 26 mai 2017 à Rennnes
+[OpenBioBlitz](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#) est un projet initié et développé lors de la première édition du [hackathon](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget) [la Nuit du Code Citoyen](https://codecitoyen.github.io/villes/rennes.html) le 4-5 mars 2017 à Rennes (Bretagne).
 
 [Présentation sur les données de biodiversité](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
 
