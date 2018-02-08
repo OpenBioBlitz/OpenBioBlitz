@@ -26,7 +26,6 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
 </figure>
 
-
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
 | ------------------ |-----------------------| ----------|---------|------------|-------------|
 | [i-Naturalist](https://www.inaturalist.org/) |   |     |         |            |             |
