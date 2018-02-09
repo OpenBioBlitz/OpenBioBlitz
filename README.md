@@ -23,17 +23,6 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 <iframe style="width:1200px;height:800px;border:0px" src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
 
-
-| Application        | Open source           | Structure | Contact | Contacté | Commentaire |
-| ------------------ |-----------------------| ----------|---------|------------|-------------|
-| [i-Naturalist](https://www.inaturalist.org/) |   |     |         |            |             |
-| [Map Of Life](https://mol.org/)              |   |     |         |            |             |
-| [i-Spot](https://www.ispotnature.org/)       |   |     |         |            |             |
-| [Ecobalade](http://www.ecobalade.fr/)        |   |     |         |            |             |
-| [I-Record](https://www.brc.ac.uk/irecord/)   |   |     |         |            | Basé sur drupal (7?) demande beaucoup de maintenance |
-| [BioCollect](https://www.ala.org.au/biocollect/)
-| [Biodiv go](https://biodivgo.com/fr/)  |   |         |            |             |
-
 TODO: finir de remplir le tableau.
 
 ## Description fonctionelle
