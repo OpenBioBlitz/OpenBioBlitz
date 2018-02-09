@@ -118,7 +118,9 @@ Todo :
 
 [OpenBioBlitz](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#) est un projet initié et développé lors d'un [hackathon organisé en 32 jours](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget) les 4-5 mars 2017 à Rennes (Bretagne, France) dans le cadre de l'événement national [la Nuit du Code Citoyen](https://codecitoyen.github.io/) .
 
-[Présentation sur les données de biodiversité](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
+[Présentation sur les données de biodiversité par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)]
+
+<iframe style="width:1200px;height:800px;border:0px" src="https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing/"></iframe>
 
 ### Licence du projet
 
