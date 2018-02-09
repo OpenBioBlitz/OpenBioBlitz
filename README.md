@@ -22,7 +22,7 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 [Source : tiré de "Carnet de terrain électronique" et modifié](http://carnet-terrain-electronique.fr/applications/)
 
 <iframe style="width:1200px;height:800px;border:0px
-src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
+solid black" src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
 
 
 | Application        | Open source           | Structure | Contact | Contacté | Commentaire |
