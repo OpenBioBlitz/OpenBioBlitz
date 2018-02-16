@@ -1,9 +1,9 @@
 # OpenBioBlitz
 
-SOMMAIRE
-Quoi
-Concept
-Description fonctionnelle
+SOMMAIRE;
+Quoi;
+Concept;
+Description fonctionnelle;
 - Profil utilisateur
 - Formulaire
 - Récupération des données manquantes
@@ -13,10 +13,10 @@ Description fonctionnelle
 - Architecture
 - API Web
 - Clients
-- Applications existantes
-Contribuer
-Contexte
-Licence du projet
+- Applications existantes;
+Contribuer;
+Contexte;
+Licence du projet;
 
 
 ## Quoi
