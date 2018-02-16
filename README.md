@@ -1,22 +1,22 @@
 # OpenBioBlitz
 
-## SOMMAIRE
-# Quoi
-# Concept
-# Description fonctionnelle
-### - Profil utilisateur
-### - Formulaire
-### - Récupération des données manquantes
-### - Validation darwinCore
-### - Publication
-### - Configuration de la zone géographique
-### - Architecture
-### - API Web
-### - Clients
-### Applications existantes
-# Contribuer
-# Contexte 
-# Licence du projet
+SOMMAIRE
+Quoi
+Concept
+Description fonctionnelle
+- Profil utilisateur
+- Formulaire
+- Récupération des données manquantes
+- Validation darwinCore
+- Publication
+- Configuration de la zone géographique
+- Architecture
+- API Web
+- Clients
+- Applications existantes
+Contribuer
+Contexte
+Licence du projet
 
 
 ## Quoi
