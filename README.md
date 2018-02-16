@@ -1,8 +1,27 @@
 # OpenBioBlitz
 
+## SOMMAIRE
+# Quoi
+# Concept
+# Description fonctionnelle
+### - Profil utilisateur
+### - Formulaire
+### - Récupération des données manquantes
+### - Validation darwinCore
+### - Publication
+### - Configuration de la zone géographique
+### - Architecture
+### - API Web
+### - Clients
+### Applications existantes
+# Contribuer
+# Contexte 
+# Licence du projet
+
+
 ## Quoi
 
-OpenBioblitz est une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un événement naturaliste comme un [BioBlitz](https://en.wikipedia.org/wiki/BioBlitz).
+OpenBioblitz est un projet pour une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un événement naturaliste comme un [BioBlitz](https://en.wikipedia.org/wiki/BioBlitz).
 
 ## Concept
 
@@ -16,14 +35,6 @@ OpenBioblitz est une application online/offline pour acquérir de nouvelles donn
 
 Deux interfaces opérationnelles en mode offline (utlisateurs et DarwinCore) échangent avec une API reliée à une Base de Données en ligne.
 Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil du [GBIF DarwinCore Validator](http://tools.gbif.org/dwca-validator).
-
-### Applications existantes
-
-[Source : tiré de "Carnet de terrain électronique" et modifié](http://carnet-terrain-electronique.fr/applications/)
-
-<iframe style="width:1200px;height:800px;border:0px" src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
-
-TODO: finir de remplir le tableau.
 
 ## Description fonctionelle
 
@@ -67,15 +78,7 @@ Validation avec [DarwinCore Validator](https://tools.gbif.org/dwca-validator/).
 
 [GBIF.org > occurrence > location](https://www.gbif.org/occurrence/search) (aller voir sur _location_)
 
-## Contribuer
-
- - [Slack](openbioblitz.slack.com)
- - [Carnet de bord](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#)
- 
- Todo:
- - contacter des institutions (associations naturalistes, Muséums (UMS PatriNat), ou autres projets d'applications naturalistes
- 
-## Architecture
+### Architecture
 
 Les choix technologiques ne sont pas arrêtés, chaque proposition est bienvenue.
 
@@ -103,12 +106,30 @@ Todo :
 
  - A t-on réellement besoin de plusieurs clients ?
 
+### Applications existantes
+
+[Source : tiré de "Carnet de terrain électronique" et modifié](http://carnet-terrain-electronique.fr/applications/)
+
+<iframe style="width:1200px;height:800px;border:0px" src="https://docs.google.com/spreadsheets/d/1tC9VsJVBiUESoh7YoTw2YBSfmn7ER17RecpbAtuqAFE/edit?usp=sharing/"></iframe>
+
+TODO: finir de remplir le tableau.
+
+
 ## Contexte
 
 [OpenBioBlitz](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#) est un projet initié et développé lors d'un [hackathon organisé en 32 jours](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget) les 4-5 mars 2017 à Rennes (Bretagne, France) dans le cadre de l'événement national [la Nuit du Code Citoyen](https://codecitoyen.github.io/) .
 
 [Présentation sur les données de biodiversité en modèle ouvert](https://docs.google.com/presentation/d/1YnATN3D6lx_RndzpiwFlbN3Ja5NmFflFvmdJJ7Mi92g/edit?usp=sharing/) par Olivier Norvez sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
 
-### Licence du projet
+## Contribuer
+
+ - [Slack](openbioblitz.slack.com)
+ - [Carnet de bord](https://hackmd.io/CYBgpgxsAcIMwFoCMBOALMBaBmZoJWgEMIEA2EAJjgHZhski1okg?both#)
+ 
+ Todo:
+ - contacter des institutions (associations naturalistes, Muséums (UMS PatriNat), ou autres projets d'applications naturalistes
+ 
+
+## Licence du projet
 
 OpenBioBlitz est un projet sous licence [CC-BY](https://creativecommons.org/licenses/by/3.0/fr/)
