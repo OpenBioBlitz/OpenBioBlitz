@@ -1,30 +1,5 @@
 # OpenBioBlitz
 
-SOMMAIRE
-
-Quoi
-
-Concept
-
-Description fonctionnelle :
-- Profil utilisateur
-- Formulaire
-- Récupération des données manquantes
-- Validation darwinCore
-- Publication
-- Configuration de la zone géographique
-- Architecture
-- API Web
-- Clients
-- Applications existantes;
-
-Contribuer
-
-Contexte
-
-Licence du projet
-
-
 ## Quoi
 
 OpenBioblitz est un projet pour une application online/offline pour acquérir de nouvelles données d'observations biologiques lors d'un événement naturaliste comme un [BioBlitz](https://en.wikipedia.org/wiki/BioBlitz).
