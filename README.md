@@ -21,13 +21,13 @@ Avant d'être exportées vers le GBIF, les données sont filtrées par l'outil d
 
 ![Schéma théorique de fonctionnement](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_jVIIVR11rac_p.564581_1488663708772_undefined)
 
-<iframe style="width:1200px;height:800px;border:0px
-solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
-
 ### Profil utilisateur
 
 L'utilisateur choisi son profil : débutant, intermédiare ou confirmé.
 Les 3 niveaux doivent être très simples pour ne pas perdre l'utilisateur.
+
+<iframe style="width:1200px;height:800px;border:0px
+solid black" src="https://framindmap.org/c/maps/320935/embed?zoom=1"> </iframe>
 
 ### Formulaire
 
